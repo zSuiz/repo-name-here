@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nvnxcvn
+=======
+nvnxcvn
+>>>>>>> solo2
